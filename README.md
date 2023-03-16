@@ -1,7 +1,7 @@
 # SocioVert
 
 -----About-----
-Sociovert is a social media web application built using MERN stack
+Sociovert is a social media web application built using MERN stack.
 
 -------Team--------
 Krishna Jaiswal 21BCS056
